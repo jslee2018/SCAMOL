@@ -1,4 +1,1 @@
-# Datamining
-# SCAMOL
-# SCAMOL
 # SCAMOL
